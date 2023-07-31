@@ -29,5 +29,5 @@ The project also adhered to strict requirements, including:
 - Using Register Indirect addressing or string primitives for integer array elements and Base+Offset addressing for accessing parameters on the runtime stack.
 
 ## 👏 Feedback
-By Megan Steele, TA: 
+By TA: 
 >Absolutely perfect work Aline! Clear comments, solid logic, and some very smart choices in the code, especially in WriteVal. All edge cases accounted for, excellent work! Possibly the most compact WriteVal I've seen, really well done!
